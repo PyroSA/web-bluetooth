@@ -1,0 +1,16 @@
+{
+  "name": "web-bluetooth",
+  "version": "1.0.0",
+  "description": "test of web-bluetooth with temperature sensor",
+  "main": "index.mjs",
+  "type": "module",
+  "scripts": {
+    "start": "node --experimental-modules index.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
